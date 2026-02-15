@@ -1,0 +1,252 @@
+{
+  "categories": [
+    { "id": 1, "name": "Burger" },
+    { "id": 2, "name": "Chicken" },
+    { "id": 3, "name": "Rice" },
+    { "id": 4, "name": "Drinks" },
+    { "id": 5, "name": "Dessert" },
+    { "id": 6, "name": "Breakfast" }
+  ],
+  "menus": [
+    {
+      "id": 1,
+      "category_id": 1,
+      "name": "Big Mac",
+      "price": 46000,
+      "description": "Burger ikonik dengan dua patty sapi dan saus spesial",
+      "available": true
+    },
+    {
+      "id": 2,
+      "category_id": 1,
+      "name": "Cheeseburger",
+      "price": 26000,
+      "description": "Burger sapi dengan keju leleh",
+      "available": true
+    },
+    {
+      "id": 3,
+      "category_id": 1,
+      "name": "Double Cheeseburger",
+      "price": 39000,
+      "description": "Dua patty sapi dan keju dobel",
+      "available": true
+    },
+    {
+      "id": 4,
+      "category_id": 1,
+      "name": "McSpicy",
+      "price": 41000,
+      "description": "Burger ayam pedas renyah",
+      "available": true
+    },
+    {
+      "id": 5,
+      "category_id": 1,
+      "name": "Beef Prosperity Burger",
+      "price": 52000,
+      "description": "Burger sapi saus lada hitam",
+      "available": true
+    },
+    {
+      "id": 6,
+      "category_id": 2,
+      "name": "Ayam McD Original",
+      "price": 29000,
+      "description": "Ayam goreng original khas McD",
+      "available": true
+    },
+    {
+      "id": 7,
+      "category_id": 2,
+      "name": "Ayam McD Spicy",
+      "price": 30000,
+      "description": "Ayam goreng pedas renyah",
+      "available": true
+    },
+    {
+      "id": 8,
+      "category_id": 2,
+      "name": "Chicken McNuggets 6 pcs",
+      "price": 36000,
+      "description": "Nugget ayam dengan saus pilihan",
+      "available": true
+    },
+    {
+      "id": 9,
+      "category_id": 2,
+      "name": "Chicken McNuggets 9 pcs",
+      "price": 48000,
+      "description": "Nugget ayam isi 9",
+      "available": true
+    },
+    {
+      "id": 10,
+      "category_id": 3,
+      "name": "Paket Ayam + Nasi",
+      "price": 39000,
+      "description": "Ayam goreng dengan nasi putih",
+      "available": true
+    },
+    {
+      "id": 11,
+      "category_id": 3,
+      "name": "Paket McSpicy + Nasi",
+      "price": 43000,
+      "description": "Ayam McSpicy dengan nasi",
+      "available": true
+    },
+    {
+      "id": 12,
+      "category_id": 4,
+      "name": "Coca Cola Medium",
+      "price": 14000,
+      "description": "Minuman soda dingin",
+      "available": true
+    },
+    {
+      "id": 13,
+      "category_id": 4,
+      "name": "Fanta Medium",
+      "price": 14000,
+      "description": "Minuman soda rasa buah",
+      "available": true
+    },
+    {
+      "id": 14,
+      "category_id": 4,
+      "name": "Ice Tea",
+      "price": 12000,
+      "description": "Teh dingin segar",
+      "available": true
+    },
+    {
+      "id": 15,
+      "category_id": 4,
+      "name": "McFlurry Oreo",
+      "price": 18000,
+      "description": "Es krim vanilla dengan Oreo",
+      "available": true
+    },
+    {
+      "id": 16,
+      "category_id": 5,
+      "name": "Sundae Chocolate",
+      "price": 13000,
+      "description": "Es krim saus coklat",
+      "available": true
+    },
+    {
+      "id": 17,
+      "category_id": 5,
+      "name": "Sundae Strawberry",
+      "price": 13000,
+      "description": "Es krim saus stroberi",
+      "available": true
+    },
+    {
+      "id": 18,
+      "category_id": 5,
+      "name": "Apple Pie",
+      "price": 15000,
+      "description": "Pie apel hangat",
+      "available": true
+    },
+    {
+      "id": 19,
+      "category_id": 6,
+      "name": "Egg McMuffin",
+      "price": 28000,
+      "description": "Menu sarapan telur dan keju",
+      "available": true
+    },
+    {
+      "id": 20,
+      "category_id": 6,
+      "name": "Sausage McMuffin",
+      "price": 30000,
+      "description": "Muffin sosis dan keju",
+      "available": true
+    },
+    {
+      "id": 21,
+      "category_id": 6,
+      "name": "Hotcakes",
+      "price": 26000,
+      "description": "Pancake dengan sirup maple",
+      "available": true
+    },
+    {
+      "id": 22,
+      "category_id": 4,
+      "name": "Iced Latte",
+      "price": 25000,
+      "description": "Kopi susu dingin",
+      "available": true
+    },
+    {
+      "id": 23,
+      "category_id": 4,
+      "name": "Americano",
+      "price": 22000,
+      "description": "Kopi hitam panas",
+      "available": true
+    },
+    {
+      "id": 24,
+      "category_id": 1,
+      "name": "Filet-O-Fish",
+      "price": 36000,
+      "description": "Burger ikan dengan saus tartar",
+      "available": true
+    },
+    {
+      "id": 25,
+      "category_id": 1,
+      "name": "Chicken Burger",
+      "price": 25000,
+      "description": "Burger ayam klasik",
+      "available": true
+    },
+    {
+      "id": 26,
+      "category_id": 2,
+      "name": "PaNas 1",
+      "price": 48000,
+      "description": "Ayam, nasi, dan minuman",
+      "available": true
+    },
+    {
+      "id": 27,
+      "category_id": 2,
+      "name": "PaNas 2",
+      "price": 56000,
+      "description": "2 ayam, nasi, dan minuman",
+      "available": true
+    },
+    {
+      "id": 28,
+      "category_id": 5,
+      "name": "McFlurry Chocolate",
+      "price": 18000,
+      "description": "McFlurry dengan coklat",
+      "available": true
+    },
+    {
+      "id": 29,
+      "category_id": 4,
+      "name": "Mineral Water",
+      "price": 10000,
+      "description": "Air mineral botol",
+      "available": true
+    },
+    {
+      "id": 30,
+      "category_id": 3,
+      "name": "French Fries Medium",
+      "price": 20000,
+      "description": "Kentang goreng renyah",
+      "available": true
+    }
+  ]
+}
